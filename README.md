@@ -8,7 +8,7 @@ Collected list of SHMEM Resources, inspired by [awesome-nerf](https://github.com
 
 ## Specification
 - [OpenSHMEM API Specifications](http://www.openshmem.org/site/specification), OpenSHMEM, 2020
-- 
+
 ## Papers
 - [Graph500 on OpenSHMEM](https://dl.acm.org/doi/10.1145/3144779.3144781),Grossman et al, PAW '17 | [workshop](https://sc17.supercomputing.org/SC17%20Archive/workshops/workshop_pages/wkpr182.html)
 
