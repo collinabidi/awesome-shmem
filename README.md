@@ -9,6 +9,7 @@ Collected list of SHMEM Resources, inspired by [awesome-nerf](https://github.com
 
 ## Workshop
 - [OpenSHMEM and Related Technologies 2021 Workshop Program](http://www.openshmem.org/workshops/openshmem2021/program.html)
+  - [Bale 3.0 Applications and Conveyors](https://drive.google.com/file/d/1zOlBHpc9kPCikZOIa5jmqYbF8iefRnIz/view) Jason Devinney *keynote*
 
 ## Specification
 - [OpenSHMEM API Specifications](http://www.openshmem.org/site/specification), OpenSHMEM, 2020
