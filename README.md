@@ -19,7 +19,7 @@ Collected list of SHMEM Resources, inspired by [awesome-nerf](https://github.com
   - [SKaMPI-OpenSHMEM: Measuring OpenSHMEM Communication Routines](https://drive.google.com/file/d/1WJp7ivyKyspJZ6_xYgY3KYRMMfg7nFo9/view?usp=sharing) Coti and Malony
   - [A Tools Information Interface for OpenSHMEM](https://drive.google.com/file/d/1ISjHxVULaMXJkXIGXAw6ro9C7obSiAyU/view?usp=sharing) Rahmanet et al.
   - [CircusTent: A Tool for Measuring PGAS Performance on Emerging Architectures](https://drive.google.com/file/d/1Eltcdy9BtTJhcm2TB8Z1_hgm4jEgLN4W/view?usp=sharing) Brody Williams, John D. Leidel, Xi Wang, David Donofrio and Yong Chen
-  - [SHMEM-ML: Leveraging OpenSHMEM and Apache Arrow for Scalable, Composable Machine Learning](https://drive.google.com/file/d/19nCly4OCbP_uuHBv1f3Ulnzna6ZZQoUz/view?usp=sharing) Grossman et al.
+  - [SHMEM-ML: Leveraging OpenSHMEM and Apache Arrow for Scalable, Composable Machine Learning](https://drive.google.com/file/d/19nCly4OCbP_uuHBv1f3Ulnzna6ZZQoUz/view?usp=sharing) Grossman et al. | [github](https://github.com/agrippa/shmem_ml)
   - [OpenSHMEM Active Message Extension for Shared-Memory Tasking System Interoperability](https://drive.google.com/file/d/13pBypEX5mysnJNDPL5xMAzpDq5VpmEEs/view?usp=sharing) Lu et al.
   - [ifunc: UCX Programming Interface for Remote Function Injection and Invocation](https://drive.google.com/file/d/1oaXn9bx355U9VTRR1eNLYf3NTpLHgYXj/view?usp=sharing) Peña et al.
   - [Can Deferring Small Messages Enhance the Performance of OpenSHMEM Applications?](https://drive.google.com/file/d/1lp8ujh6EnQ0jD0wGdQkqv4uWy-4PpT5E/view?usp=sharing) Ozog et al.
@@ -27,6 +27,7 @@ Collected list of SHMEM Resources, inspired by [awesome-nerf](https://github.com
 
 ## Papers
 - [Graph500 on OpenSHMEM](https://dl.acm.org/doi/10.1145/3144779.3144781),Grossman et al., PAW '17 | [workshop](https://sc17.supercomputing.org/SC17%20Archive/workshops/workshop_pages/wkpr182.html)
+- [HOOVER: Leveraging OpenSHMEM for High Performance, Flexible Streaming Graph Applications](https://ieeexplore.ieee.org/document/9306986) Grossman et al. | [github](https://github.com/agrippa/hoover)
 
 ## Tutorials
 - [OpenSHMEM Tutorial](http://www.openshmem.org/site/sites/default/site_files/SHMEM_tutorial.pdf), Pophale et al.
