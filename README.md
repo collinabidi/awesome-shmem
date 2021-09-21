@@ -14,7 +14,7 @@ Collected list of SHMEM Resources, inspired by [awesome-nerf](https://github.com
 - [OpenSHMEM and Related Technologies 2021 Workshop Program](http://www.openshmem.org/workshops/openshmem2021/program.html)
   - [Bale 3.0 Applications and Conveyors](https://drive.google.com/file/d/1zOlBHpc9kPCikZOIa5jmqYbF8iefRnIz/view) Jason Devinney
   - [OpenFAM: A library for programming disaggregated memory.](https://drive.google.com/file/d/14X4vZX_twJZRtcn9eaaT9pVyYezBzNc_/view) Singhal et al.
-  - [OpenSHMEM over MPI as a Performance Contender: Thorough Analysis and Optimizations](https://drive.google.com/file/d/1uM9mKtmJMewtDoLj7JsxIxSO8RkbACSY/view?usp=sharing) Min Si, Huansong Fu, Jeff Hammond and Pavan Balaji
+  - [OpenSHMEM over MPI as a Performance Contender: Thorough Analysis and Optimizations](https://drive.google.com/file/d/1wknrgccuCFSaUsyx0qY_WaXehVesgUZT/view?usp=sharing) Min Si, Huansong Fu, Jeff Hammond and Pavan Balaji
   - [NVSHMEM: GPU-Integrated Communication for NVIDIA GPU Clusters](https://drive.google.com/file/d/1bJ1wxgNjzTO5XeZ_yMtYcnxIAQUTlTtJ/view?usp=sharing) Jim Dinan 
   - [SKaMPI-OpenSHMEM: Measuring OpenSHMEM Communication Routines](https://drive.google.com/file/d/1WJp7ivyKyspJZ6_xYgY3KYRMMfg7nFo9/view?usp=sharing) Camille Coti and Allen Malony
   - [A Tools Information Interface for OpenSHMEM](https://drive.google.com/file/d/1ISjHxVULaMXJkXIGXAw6ro9C7obSiAyU/view?usp=sharing) Md Rahman, David Ozog and Kieran Holland.
