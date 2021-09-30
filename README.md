@@ -12,7 +12,7 @@ Collected list of SHMEM Resources, inspired by [awesome-nerf](https://github.com
 - [OpenSHMEM API Specifications](http://www.openshmem.org/site/specification), OpenSHMEM, 2020
 
 ## Installation
-- [Installing OpenSHMEM with UCX and OpenMPI](https://github.com/openucx/ucx/wiki/OpenMPI-and-OpenSHMEM-installation-with-UCX)
+- [Installing OpenSHMEM with UCX and OpenMPI](https://github.com/openucx/ucx/wiki/OpenMPI-and-OpenSHMEM-installation-with-UCX) OpenSHMEM via OpenMPI 4.0.3 with UCX
 ## Workshop
 - [OpenSHMEM and Related Technologies 2021 Workshop Program](http://www.openshmem.org/workshops/openshmem2021/program.html)
   - [Bale 3.0 Applications and Conveyors](https://drive.google.com/file/d/1zOlBHpc9kPCikZOIa5jmqYbF8iefRnIz/view), Devinney
