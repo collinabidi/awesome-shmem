@@ -35,9 +35,5 @@ Collected list of SHMEM Resources, inspired by [awesome-nerf](https://github.com
 ## Tutorials
 - [OpenSHMEM Tutorial](http://www.openshmem.org/site/sites/default/site_files/SHMEM_tutorial.pdf), Pophale et al.
 
-## Implementations
-#### OpenMPI 3.0.6
-- [Documentation](https://www.open-mpi.org/doc/v3.0/man3/OpenSHMEM.3.php)
-
 ## License 
 MIT
