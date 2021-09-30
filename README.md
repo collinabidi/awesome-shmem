@@ -3,7 +3,7 @@ Collected list of SHMEM Resources, inspired by [awesome-nerf](https://github.com
 
 ## Table of Contents
 - [Specification](#specification)
-- [Implementations](#implementations)
+- [Installation Guide](#installation)
 - [Workshop](#workshop)
 - [Papers](#papers)
 - [Talks](#talks)
@@ -11,7 +11,7 @@ Collected list of SHMEM Resources, inspired by [awesome-nerf](https://github.com
 ## Specification
 - [OpenSHMEM API Specifications](http://www.openshmem.org/site/specification), OpenSHMEM, 2020
 
-## Installation
+## Installation Guide
 - [Installing OpenSHMEM with UCX and OpenMPI](https://github.com/openucx/ucx/wiki/OpenMPI-and-OpenSHMEM-installation-with-UCX)
 ## Workshop
 - [OpenSHMEM and Related Technologies 2021 Workshop Program](http://www.openshmem.org/workshops/openshmem2021/program.html)
